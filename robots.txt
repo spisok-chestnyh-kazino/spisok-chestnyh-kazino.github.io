@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: spisok-chestnyh-kazino.github.io
+Sitemap: https://spisok-chestnyh-kazino.github.io/sitemap.xml
